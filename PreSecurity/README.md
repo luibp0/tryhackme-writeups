@@ -45,6 +45,6 @@ Through hands-on labs and practical exercises, this path helped me understand ho
 
 | ⏳ Attacks and Defenses | Not Started |
 
----
+
 
 > This directory contains my personal notes and write-ups while completing the **Pre Security** learning path on TryHackMe. The content reflects my learning journey and does not include flags or full walkthroughs.
