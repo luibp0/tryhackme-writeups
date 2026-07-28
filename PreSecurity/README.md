@@ -30,8 +30,8 @@ Through hands-on labs and practical exercises, this path helped me understand ho
 | Module | Status |
 |---------|--------|
 |  Introduction to Cyber Security | ✅Completed✅ |
-| 🔄 Computer Fundamentals | In Progress |
-| ⏳ Operating System Basics | Not Started |
+|  Computer Fundamentals | ✅Completed✅ |
+| 🔄 Operating System Basics | In Progress |
 | ⏳ Software Basics | Not Started |
 | ⏳ Network Fundamentals | Not Started |
 | ⏳ How The Web Works | Not Started |
