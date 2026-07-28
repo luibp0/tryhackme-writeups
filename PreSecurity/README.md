@@ -23,13 +23,27 @@ Through hands-on labs and practical exercises, this path helped me understand ho
 - Basic Programming
 - Cybersecurity Fundamentals
 
-## Progress
+## Modules Progress
 
-| Room | Status |
-|------|--------|
-| ✅ Offensive Security Intro | Completed |
-| ✅ Defensive Security Intro | Completed |
-| ⏳ More rooms coming soon... |
+
+
+| Module | Status |
+
+|---------|--------|
+
+| ✅ Introduction to Cyber Security | Completed |
+
+| ⏳ Computer Fundamentals | In Progress | 
+
+| ⏳ Operating System Basics | Not Started | 
+
+| ⏳ Software Basics | Not Started | 
+
+| ⏳ Network Fundamentals | Not Started | 
+
+| ⏳ How The Web Works | Not Started | 
+
+| ⏳ Attacks and Defenses | Not Started |
 
 ---
 
