@@ -10,7 +10,6 @@ The module covers the basics of cybersecurity, different security roles, and the
 
 | Room | Status |
 |------|--------|
-| ✅ Introduction to Cyber Security | Completed |
 | ✅ Careers in Cyber | Completed |
 | ✅ Offensive Security Intro | Completed |
 | ✅ Defensive Security Intro | Completed |
