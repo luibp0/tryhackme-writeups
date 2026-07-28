@@ -37,8 +37,7 @@ Through hands-on labs and practical exercises, this path helped me understand ho
 | ⏳ How The Web Works | Not Started |
 | ⏳ Attacks and Defenses | Not Started |
 
-## Overall Progress
-**1/7 Modules Completed (14%)**
+
 
 Current Focus:
 - Computer Fundamentals
