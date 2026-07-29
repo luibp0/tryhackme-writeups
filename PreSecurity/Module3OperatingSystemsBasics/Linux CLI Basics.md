@@ -1,4 +1,3 @@
-````markdown
 # Linux CLI Basics
 
 ## Overview
