@@ -30,8 +30,7 @@ This room introduces the fundamentals of the Linux Command Line Interface (CLI) 
 
 ```bash
 pwd
-ls
-ls -la
+ls 
 cd
 mkdir
 touch
