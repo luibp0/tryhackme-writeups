@@ -63,4 +63,3 @@ This room helped me become comfortable using the Linux terminal and introduced t
 ---
 
 > Personal learning notes only. No flags, answers, or complete walkthroughs are included.
-````
