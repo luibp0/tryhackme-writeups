@@ -1,4 +1,4 @@
-# 🪟 Windows CLI Basics
+#  Windows CLI Basics
 
 ## Description
 
