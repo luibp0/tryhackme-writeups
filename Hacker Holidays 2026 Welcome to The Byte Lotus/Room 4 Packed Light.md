@@ -2,45 +2,47 @@
 
 ## Description
 
-**Packed Light** introduces the fundamentals of software packaging and distribution. The room explores how applications are bundled, installed, and managed across different operating systems, while highlighting the importance of verifying software sources and maintaining secure installation practices.
+**Packed Light** focuses on forensic analysis techniques used to uncover hidden information inside packed, encoded, and compressed data. Throughout the investigation, various layers of encoding and compression are analyzed to reveal embedded artifacts and understand how attackers attempt to conceal malicious content.
 
 ---
 
 ## Objectives
 
-* Understand the purpose of software packages.
-* Explore common package formats and package managers.
-* Learn how software dependencies are managed.
-* Install and manage software using package management tools.
-* Recognize the security risks associated with untrusted software sources.
+- Analyze suspicious encoded data.
+- Decode multiple layers of encoding.
+- Identify compressed content.
+- Extract hidden information from forensic artifacts.
+- Understand common obfuscation techniques.
 
 ---
 
 ## Skills Learned
 
-* Software Packaging
-* Package Management
-* Dependency Management
-* Secure Software Installation
-* Linux Package Managers
-* Software Repositories
+- Digital Forensics
+- Base64 Decoding
+- Data Decompression
+- CyberChef Workflows
+- Artifact Analysis
+- Threat Investigation
 
 ---
 
 ## Tools Used
 
-* Linux Terminal
-* APT (Package Manager)
-* Package Repositories
+- CyberChef
+- Base64 Decoder
+- Raw Inflate
+- Linux Command Line
+- File Analysis Tools
 
 ---
 
 ## Key Takeaways
 
-* Package managers simplify software installation, updates, and removal.
-* Trusted repositories help ensure software integrity and authenticity.
-* Managing dependencies is essential for stable and secure systems.
-* Keeping software updated is a fundamental security practice.
+- Attackers often combine encoding and compression to conceal malicious content.
+- Layered decoding is a common forensic investigation technique.
+- CyberChef provides a powerful environment for analyzing encoded data.
+- Understanding common encoding methods helps identify hidden artifacts efficiently.
 
 ---
 
