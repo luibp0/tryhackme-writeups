@@ -45,7 +45,7 @@ This repository contains my personal notes, methodologies, screenshots, and writ
 | Day 3  | ✅ Completed   |
 | Day 4  | ✅ Completed   |
 | Day 5  | ✅ Completed   |
-| Day 6  | ⬜ Not Started |
+| Day 6  | ✅ Completed   |
 | Day 7  | ⬜ Not Started |
 | Day 8  | ⬜ Not Started |
 | Day 9  | ⬜ Not Started |
