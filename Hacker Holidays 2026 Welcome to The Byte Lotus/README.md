@@ -49,11 +49,11 @@ This repository contains my personal notes, methodologies, screenshots, and writ
 | Day 7  | ✅ Completed   |
 | Day 8  | ✅ Completed   |
 | Day 9  | ✅ Completed   |
-| Day 10 | ⬜ Not Started |
-| Day 11 | ⬜ Not Started |
-| Day 12 | ⬜ Not Started |
-| Day 13 | ⬜ Not Started |
-| Day 14 | ⬜ Not Started |
+| Day 10 | ✅ Completed  |
+| Day 11 | ✅ Completed  |
+| Day 12 | ✅ Completed   |
+| Day 13 | ✅ Completed   |
+| Day 14 | ✅ Completed   |
 
 ---
 
