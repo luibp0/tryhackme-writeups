@@ -31,11 +31,11 @@ Through hands-on labs and practical exercises, this path helped me understand ho
 |---------|--------|
 |  Introduction to Cyber Security | ✅Completed✅ |
 |  Computer Fundamentals | ✅Completed✅ |
-| 🔄 Operating System Basics | In Progress |
-| ⏳ Software Basics | Not Started |
-| ⏳ Network Fundamentals | Not Started |
-| ⏳ How The Web Works | Not Started |
-| ⏳ Attacks and Defenses | Not Started |
+| 🔄 Operating System Basics | ✅Completed✅ |
+| ⏳ Software Basics | ✅Completed✅ |
+| ⏳ Network Fundamentals | ✅Completed✅ |
+| ⏳ How The Web Works | ✅Completed✅ |
+| ⏳ Attacks and Defenses | ✅Completed✅ |
 
 
 
